@@ -1,0 +1,56 @@
+cons
+VM355:1 Uncaught ReferenceError: cons is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM355:1
+console.log("Hello World")
+VM403:1 Hello World
+undefined
+var nomb1=1
+undefined
+var nomb2=6
+undefined
+var div1=nomb1/nomb2
+undefined
+div1
+0.16666666666666666
+var nomb3=3
+    
+undefined
+var nomb4=2
+undefined
+var div=nomb3/nomb4
+undefined
+var div2=nomb3/nomb4
+undefined
+div2
+1.5
+var nomb5=4
+undefined
+var nomb6=3
+undefined
+var div3=nomb5/nomb6
+undefined
+div3
+1.3333333333333333
+var no
+undefined
+var div=nomb1/nomb4
+undefined
+var div4=nomb1/nomb4
+undefined
+div4
+0.5
+var multip=div1*div2
+undefined
+multip
+0.25
+var somme=div3+div4
+undefined
+somme
+1.8333333333333333
+var div=multip/somme
+undefined
+var div5=multip/somme
+undefined
+div5
+0.13636363636363638
